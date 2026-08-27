@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delegate to Local GPU"
+  short_description: "Offload bounded preprocessing to Onyx GPU"
+  default_prompt: "Use $delegate-local-gpu to offload suitable preprocessing to my local GPU, then verify the result."
