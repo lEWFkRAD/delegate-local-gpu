@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI built-in imagegen",
+  "kind": "Concept illustration",
+  "sha256": "5bd2e8d02f74ba82aecc2b5d9cd8167d858da9ec708d4acc20824df33d658c32",
+  "prompts": [
+    "Use case: ads-marketing.\nAsset type: finished wide 2:1 GitHub/project website hero banner, 2048x1024 if possible, opaque background.\nCreate a polished premium editorial illustration for the project \"Delegate to Local GPU\", a skill for bounded local-model preprocessing followed by verification by the coordinating agent. Show a tactile desktop instrument: a compact local GPU enclosure with precise copper cooling fins receives a small neatly bounded stack of ivory evidence cards, and returns one concise card through a separate inspection frame. Treat this as an explanatory physical metaphor, not a real product photograph or app screenshot. Rendered illustration with precise forms, paper grain, restrained metallic detail, calm confident composition. Charcoal and warm ivory dominate, copper hardware, a very small muted green verification accent. Strong visual hierarchy, generous safe margins, readable at thumbnail size.\nTypography integrated in the artwork: large immaculate editorial sans-serif title, exactly \"DELEGATE TO\" on one line and \"LOCAL GPU\" on the next. The title and instrument share a balanced wide composition; no tiny text.\nNo other text, logos, numbers, benchmarks, fake UI, code screenshots, private data, model names, network addresses, badges, watermark, border, or promises of autonomous execution. One bounded evidence path, one separate verification step. Do not draw a robot or a human face."
+  ]
+}
